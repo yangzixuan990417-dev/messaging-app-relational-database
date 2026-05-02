@@ -30,6 +30,7 @@ The database includes the following main tables:
 - Conversation
 - GroupMember
 - Message
+- ConversationParticipant
 
 ## Skills Demonstrated
 - Relational database design
