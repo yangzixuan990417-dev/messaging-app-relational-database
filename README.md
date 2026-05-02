@@ -9,6 +9,10 @@ Messaging applications generate repeated data when user details, group informati
 ## Database Solution
 This project applies relational database design principles to separate users, conversations, groups, group membership, and messages into structured tables. The final design reduces redundancy, improves data integrity, and supports SQL-based message retrieval and reporting.
 
+## Database Diagram
+
+![Entity Relationship Diagram](diagrams/erd.png)
+
 ## Key Features
 - Designed a relational database schema for a messaging application
 - Normalised flat-file data into 3NF
