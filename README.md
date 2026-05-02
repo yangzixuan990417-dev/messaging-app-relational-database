@@ -40,6 +40,11 @@ The database includes the following main tables:
 - SQL joins and views
 - Data integrity and schema documentation
 
+## Documentation
+
+- [Business Rules](docs/business-rules.md)
+- [Normalisation Summary](docs/normalisation-summary.md)
+
 ## Project Structure
 ```text
 messaging-app-relational-database/
