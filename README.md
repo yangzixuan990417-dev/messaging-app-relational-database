@@ -41,6 +41,16 @@ The database includes the following main tables:
 - SQL joins and views
 - Data integrity and schema documentation
 
+## Key Features
+
+- Designed a relational database schema for a messaging application
+- Normalised flat-file data into 3NF
+- Created SQL DDL scripts for table creation
+- Inserted sample data using SQL DML
+- Wrote SQL queries for message retrieval and reporting
+- Created a SQL view for group conversations containing media attachments
+- Demonstrated schema evolution through account status, soft deletion, read receipts, message reactions, and indexing.
+
 ## Documentation
 
 - [Business Rules](docs/business-rules.md)
